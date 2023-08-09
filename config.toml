@@ -1,6 +1,6 @@
 baseURL = "https://yuzhao66.github.io/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "赵雨:Zoey Yu Zhao"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
@@ -64,7 +64,7 @@ posts = "/posts/:year/:month/:day/:slug/"
   url = "media/zy-logo.png" # you can change it
   width = 50.0
   height = 50.0
-  alt = "赵雨: Zoey Yu Zhao"
+  alt = "Zoey Yu Zhao"
 
 [params.lang]
 
