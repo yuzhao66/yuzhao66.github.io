@@ -63,7 +63,7 @@ posts = "/posts/:year/:month/:day/:slug/"
   # Change the logo picture as your prefer:
   url = "media/zy-logo1.jpg" # you can change it
   width = 200.0
-  height = 100.0
+  height = 200.0
   alt = "Yu Zhao"
 
 [params.lang]
