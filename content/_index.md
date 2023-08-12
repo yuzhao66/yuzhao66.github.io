@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<div style="display: flex; align-items: center; margin: 30px 0;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin: 30px 0;">
     <div style="flex: 1; margin-right: 30px;">
         <img src="media/web.jpg" alt="At the Victoria Peak Tower in 2022" width="500">
     </div>
