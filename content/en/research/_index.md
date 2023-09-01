@@ -40,16 +40,14 @@ Abstract: This study uses a randomized experiment to examine the effectiveness o
 The experiences of student life can have lasting impacts on an individual's future outcomes. We take the policy of the Rural Primary School Consolidation Program (RPSCP) in 2001 as a quasi-natural experiment, and comprehensively examine the long-term impact of this policy on students’ migration decisions in the future. We find that the RPSCP policy has a persisting negative impact on rural students’ future migration, with a more pronounced effect among girls and younger students. Mechanism analysis suggests that the RPSCP can hinder the process of human capital accumulation, thereby reducing the likelihood of migration. Further investigation highlights that school consolidation not only affects students' career choices, but also has a profound impact on household registration conversion and settlement intentions in other regions.
 </p>
 </details>
----
+
 
 
 {{< columns >}}
 
 
 {{<figure-a src="/media/research/nlcl.png" >}}
-
 {{< column >}}
-
 **The Effect of China's New Labor Contract Law on Human Capital Investment of Migrant Workers' Families**. [PDF](https://yuzhao66.github.io/files/nlcl.pdf)
 
 [Yu Zhao](https://yuzhao66.github.io/), [Hui Du](/), [Rui Li](https://hums.dlmu.edu.cn/info/1121/2061.htm), [Guangsu Zhou](http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/zgs/226d274fc66240e0b01b3c01243ef853.htm). {{< endcolumn >}}
