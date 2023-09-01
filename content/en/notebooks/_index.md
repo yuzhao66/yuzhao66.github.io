@@ -28,12 +28,11 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 
 {{<columns>}}
 {{<figure-a src="/files/wechat/choice1.jpg" >}}
-[Link](https://mp.weixin.qq.com/s/2yCTfdkfMEbLRbCt6OvIVg)
 
 {{<column>}}
 
 {{<figure-a src="/files/wechat/choice3.jpg" >}}  
-
+[Link](https://mp.weixin.qq.com/s/2yCTfdkfMEbLRbCt6OvIVg)
 {{< endcolumn >}}
 
 
