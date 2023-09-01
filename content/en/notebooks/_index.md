@@ -7,7 +7,7 @@ toc: true
 
 ## WeChat Articles
 
-"RCT4BETTER"(依然糅春天) is [Dr. Ye Xiaoyang's](https://xiaoyangye.github.io/) WeChat Official Account, and as his research assistant, I often assist in publishing knowledge dissemination articles on it.
+"RCT4BETTER"(依然糅春天) is [Dr. Xiaoyang Ye's](https://xiaoyangye.github.io/) WeChat Official Account, and as his research assistant, I often assist in publishing knowledge dissemination articles on it.
 
 ### 1. How to use ‘readhtmltable’ and ‘maptile’ commands.
 
@@ -29,10 +29,10 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 {{<columns>}}
 {{<figure-a src="/files/wechat/choice1.jpg" >}}
 [Link](https://mp.weixin.qq.com/s/2yCTfdkfMEbLRbCt6OvIVg)
-	
+
 {{<column>}}
 
-{{<figure-a src="/files/wechat/choice22.jpg" >}}  
+{{<figure-a src="/files/wechat/choice3.jpg" >}}  
 
 {{< endcolumn >}}
 
