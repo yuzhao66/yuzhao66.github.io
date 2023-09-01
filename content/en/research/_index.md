@@ -24,7 +24,7 @@ Abstract: This study uses a randomized experiment to examine the effectiveness o
 {{< columns >}}
 
 
-{{<figure-a src="/media/research/rpscp.png" >}}
+{{<figure-a src="/media/research/rpscp.png" style="width: 100%;" >}}
 
 {{< column >}}
 
