@@ -71,9 +71,11 @@ Abstract: We take the implementation of "China’s New Labor Contract Law" (NLCL
 
 ## Agricultural Economics and Rural Development
 
+{{< column >}}
 **The Influence of Farmers’ Financial Literacy on Household’s Poverty Vulnerability.** [[PDF]](https://yuzhao66.github.io/files/finance.pdf)
 
 [Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Xinjiang State Farms Economy, 2021. 
+{{< endcolumn >}}
 
 <details>
 <summary>Abstract: </summary>
@@ -82,6 +84,8 @@ Abstract: 2020 is the year to win the battle against poverty in an all-round way
 </p>
 </details>
 
+{{< column >}}
 **Research on the Impact of Farmland Rights Confirmation upon Rural Labor to Migrant to Work.** [[PDF]](https://yuzhao66.github.io/files/migrate.pdf)
 
 [Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Rural Economy and Technology, 2019. 
+{{< endcolumn >}}
