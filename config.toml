@@ -17,6 +17,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 1
 [[menu.en]]
     name = "CV"
+    url = "https://yuzhao66.github.io/file/Yu_cv.pdf"
     weight = 2
 [[menu.en]]
     name = "Research"
