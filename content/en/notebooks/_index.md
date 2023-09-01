@@ -22,18 +22,20 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 
 {{< endcolumn >}}
 
-### 2. Translation: METHODS FOR MEASURING SCHOOL EFFECTIVENESS. [Link](https://mp.weixin.qq.com/s/CirHLuFrIg7D5NDTBaEWDw)
+### 2. [Translation: Methods for Measuring School Effectiveness.](https://mp.weixin.qq.com/s/CirHLuFrIg7D5NDTBaEWDw)
 
 ### 3. Let ChatGPT experience everyone's college entrance exam experience.
 
 {{<columns>}}
 {{<figure-a src="/files/wechat/choice1.jpg" >}}
+[Link](https://mp.weixin.qq.com/s/2yCTfdkfMEbLRbCt6OvIVg)
+	
 {{<column>}}
 
-{{<figure-a src="/files/wechat/choice2.jpg" >}}  
+{{<figure-a src="/files/wechat/choice22.jpg" >}}  
 
 {{< endcolumn >}}
-[Link](https://mp.weixin.qq.com/s/2yCTfdkfMEbLRbCt6OvIVg)
+
 
 ***
 
