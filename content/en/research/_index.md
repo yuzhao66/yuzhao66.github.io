@@ -67,19 +67,17 @@ Abstract: We take the implementation of "China’s New Labor Contract Law" (NLCL
 
 The Influence of Farmers’ Financial Literacy on Household’s Poverty Vulnerability.
 
-[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm).
+[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Xinjiang State Farms Economy, 2021.
 
 [PDF](https://yuzhao66.github.io/files/finance.pdf)
 
-```
-<p>
-Abstract: 2020 is the year to win the battle against poverty in an all-round way. The focus of poverty governance will shift to relatively invisible poverty. As an important indicator of poverty prevention and control, vulnerability to poverty is of great significance for establishing a long-term mechanism to solve relative poverty. This paper empirically analyzed the impact of financial literacy on the poverty vulnerability of rural residents by using the 2015 China Household Financial Survey（CHFS）data. The results show that financial literacy has a significant negative impact on the poverty vulnerability of rural households, and the improvement of financial literacy is helpful to reduce the poverty vulnerability of rural households. Further research shows that the proportion of risk assets, off-farm entrepreneurship and insurance purchase play an intermediary role in the process of financial literacy affecting poverty vulnerability, and financial literacy can reduce poverty vulnerability by influencing the proportion of risk assets, encouraging off-farm entrepreneurship and insurance purchase.
-</p>
 
-```
+<div style="text-align: justify;">
+Abstract: 2020 is the year to win the battle against poverty in an all-round way. The focus of poverty governance will shift to relatively invisible poverty. As an important indicator of poverty prevention and control, vulnerability to poverty is of great significance for establishing a long-term mechanism to solve relative poverty. This paper empirically analyzed the impact of financial literacy on the poverty vulnerability of rural residents by using the 2015 China Household Financial Survey（CHFS）data. The results show that financial literacy has a significant negative impact on the poverty vulnerability of rural households, and the improvement of financial literacy is helpful to reduce the poverty vulnerability of rural households. Further research shows that the proportion of risk assets, off-farm entrepreneurship and insurance purchase play an intermediary role in the process of financial literacy affecting poverty vulnerability, and financial literacy can reduce poverty vulnerability by influencing the proportion of risk assets, encouraging off-farm entrepreneurship and insurance purchase.
+</div>
 
 Research on the Impact of Farmland Rights Confirmation upon Rural Labor to Migrant to Work.
 
-[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm).
+[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Rural Economy and Technology, 2019.
 
 [PDF](https://yuzhao66.github.io/files/migrate.pdf)
