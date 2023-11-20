@@ -1,6 +1,6 @@
 baseURL = "https://yuzhao66.github.io/"
 languageCode = "en-us"
-title = "赵雨:Yu (Zoey) Zhao"
+title = "Yu (Zoey) Zhao"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
