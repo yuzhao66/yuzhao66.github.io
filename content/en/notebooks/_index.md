@@ -40,10 +40,39 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 
 ## Project
 
+### 1. Python: Analyse and Visualise the Space Race
+
+{{<columns>}}
+
+{{<figure-a src="/files/project/python/space.png" >}}
+
+{{<column>}}
+
+This is my Day 18 assignment from the "100 Days of Code" course on Udemy. I analyzed and visualized trends over time using space mission data from 1957 onwards. Highly recommend this course! 🥰 
+
+[Code](/files/project/python/Space_Missions_Analysis.ipynb
+
+{{< endcolumn >}}
+
+### 2. Python: Analyse Deaths involving Police
+
+{{<columns>}}
+
+{{<figure-a src="/files/project/python/reg.png" >}}
+
+{{<column>}}
+
+This is my final project for the "100 Days of Code" course on Udemy. It focuses on extracting insights by combining U.S. census data with The Washington Post's police-related deaths database in the United States. You can find all my course assignments on my GitHub page.
+[Code](/files/project/python/Fatal_Force.ipynb
+
+{{< endcolumn >}}
+
+
+
 
 ## Notebooks
 
-### 1. Learning notes on Python100
+### 1. Learning notes on Machine Learning
 
 
 

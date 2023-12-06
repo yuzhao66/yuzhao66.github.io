@@ -14,7 +14,7 @@ type : nolisting
 
 **Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China**. 
 
-[Yu Zhao](https://yuzhao66.github.io/), [Xiaoyang Ye](https://xiaoyangye.github.io/), [Qiuxiang Wu](http://soe.ruc.edu.cn/info/1201/2823.htm), [Stephen DesJardins](https://marsal.umich.edu/directory/faculty-staff/stephen-l-desjardins)
+[Yu Zhao](https://yuzhao66.github.io/), [Xiaoyang Ye](https://xiaoyangye.github.io/), [Qiuxiang Wu](http://soe.ruc.edu.cn/info/1201/2823.htm), [Stephen DesJardins](https://marsal.umich.edu/directory/faculty-staff/stephen-l-desjardins).
 
 {{< endcolumn >}}
 
