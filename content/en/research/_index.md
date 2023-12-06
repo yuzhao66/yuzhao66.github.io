@@ -4,13 +4,30 @@ type : nolisting
 ---
 
 
-## Education Economics
+## Education and Labor Economics
 
 {{< columns >}}
 
 {{<figure-a src="/media/research/glass.png" >}}
 
 {{< column >}}
+
+**Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China**. 
+
+[Jiusheng Zhu](https://sites.google.com/view/jiushengzhu), [Xinjie Zhang](https://andyxinjiezhang.wixsite.com/myprofile), [Yu Zhao](https://yuzhao66.github.io/), [Xiaoyang Ye](https://xiaoyangye.github.io/). 
+
+{{< endcolumn >}}
+
+<details>
+<summary>Click to Expand Full Abstract. </summary>
+<p style="text-align: justify;">
+Abstract: This study uses a randomized experiment to examine the effectiveness of informational nudges about eyeglasses on middle-school students’ decisions to purchase glasses when needed. With a sample of 8,808 low-income middle school students in China, the experimental results show that the short-term impact of wearing glasses on academic achievement (vs. long-term impact or social norm) is the most effective information for students. We also find heterogeneity in baseline belief, peer effects, as well as in how students with different characteristics respond to various types of information. Cost-benefit analysis demonstrates efficacy and cost-effectiveness of nudges in improving academic outcomes. Our results provide novel evidence of the importance of precise, personalized information nudges in improving students' educational input and academic achievement.   
+</p>
+</details>
+
+
+
+🌻
 
 **Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses**. 
 
