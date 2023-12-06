@@ -14,7 +14,7 @@ type : nolisting
 
 **Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses**. 
 
-[Xinjie Zhang](/), [Jiusheng Zhu](/), [Yu Zhao](https://yuzhao66.github.io/), [Xiaoyang Ye](https://xiaoyangye.github.io/). 
+[Jiusheng Zhu](https://sites.google.com/view/jiushengzhu), [Xinjie Zhang](https://andyxinjiezhang.wixsite.com/myprofile), [Yu Zhao](https://yuzhao66.github.io/), [Xiaoyang Ye](https://xiaoyangye.github.io/). 
 
 {{< endcolumn >}}
 
@@ -57,7 +57,7 @@ The experiences of student life can have lasting impacts on an individual's futu
 
 {{<figure-a src="/media/research/nlcl.png" >}}
 {{< column >}}
-**The Effect of China's New Labor Contract Law on Human Capital Investment of Migrant Workers' Families**. [[PDF]](https://www.dropbox.com/scl/fi/0fy5fdinzy87nwdmjrxwe/The-Human-Capital-Investment-s-Effect-of-China-s-New-Labor-Contract-Law-on-Migrant-Workers-Families.pdf?rlkey=ju6kr2eoakwiefyy87n672p7v&dl=0)
+**The Effect of China's New Labor Contract Law on Human Capital Investment of Migrant Workers' Families**. [[PDF]](https://yuzhao66.github.io/files/paper/nlcl.pdf)
 
 [Yu Zhao](https://yuzhao66.github.io/), [Hui Du](/), [Rui Li](https://hums.dlmu.edu.cn/info/1121/2061.htm), [Guangsu Zhou](http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/zgs/226d274fc66240e0b01b3c01243ef853.htm). 
 {{< endcolumn >}}
@@ -77,7 +77,7 @@ Abstract: We take the implementation of "China’s New Labor Contract Law" (NLCL
 ## Agricultural Economics and Rural Development
 
 {{< column >}}
-**The Influence of Farmers’ Financial Literacy on Household’s Poverty Vulnerability.** [[PDF]](https://www.dropbox.com/scl/fi/6n242ei6977plrqjpe7em/_.pdf?rlkey=rfblurgdg9k5dz5rzwhdqr3yh&dl=0)
+**The Influence of Farmers’ Financial Literacy on Household’s Poverty Vulnerability.** [[PDF]](https://yuzhao66.github.io/files/paper/finance.pdf)
 
 [Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Xinjiang State Farms Economy, 2021. 
 
@@ -92,7 +92,7 @@ Abstract: 2020 is the year to win the battle against poverty in an all-round way
 
 🌻
 
-**Research on the Impact of Farmland Rights Confirmation upon Rural Labor to Migrant to Work.** [[PDF]](https://www.dropbox.com/scl/fi/hi4t5fnlvq3i4cudnzjbt/_.pdf?rlkey=cuwa0jn6hir9gu9k1ishn9mdr&dl=0)
+**Research on the Impact of Farmland Rights Confirmation upon Rural Labor to Migrant to Work.** [[PDF]](https://yuzhao66.github.io/files/paper/migrate.pdf)
 
 [Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Rural Economy and Technology, 2019. 
 
