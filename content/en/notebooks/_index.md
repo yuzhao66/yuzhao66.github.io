@@ -48,8 +48,7 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 
 {{<column>}}
 
-This is my Day 18 assignment from the "100 Days of Code" course on Udemy. Highly recommend this course! 🥰  
-[Code](/files/project/python/Space_Missions_Analysis.ipynb)
+This is my Day 18 assignment from the "100 Days of Code" course on Udemy. Highly recommend this course! 🥰 [Code](/files/project/python/Space_Missions_Analysis.ipynb)
 
 {{< endcolumn >}}
 
@@ -61,8 +60,7 @@ This is my Day 18 assignment from the "100 Days of Code" course on Udemy. Highly
 
 {{<column>}}
 
-This is my final project for the "100 Days of Code" course on Udemy. You can find all my course assignments on my GitHub page. 
-[Code](/files/project/python/Fatal_Force.ipynb)
+This is my final project for the "100 Days of Code" course on Udemy. You can find all my course assignments on my GitHub page. [Code](/files/project/python/Fatal_Force.ipynb)
 
 {{< endcolumn >}}
 
