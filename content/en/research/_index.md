@@ -8,7 +8,6 @@ type : nolisting
 
 {{< columns >}}
 
-
 {{<figure-a src="/media/research/glass.png" >}}
 
 {{< column >}}
@@ -37,7 +36,7 @@ Abstract: This study uses a randomized experiment to examine the effectiveness o
 
 {{< column >}}
 
-**The Long-term Influence of Education Resources Allocation on the Migration：Evidence from the China’s Rural School Consolidation Policy**. [[PDF]](https://www.dropbox.com/scl/fi/a0cvma31mh4c91s3tjmej/The-Long-term-Influence-of-Education-Resources-Allocation-on-the-Migration.pdf?rlkey=evvw5yjlrb1iwk2u4f7fcv3cw&dl=0)
+**The Long-term Influence of Education Resources Allocation on the Migration：Evidence from the China’s Rural School Consolidation Policy**. [[PDF]](https://yuzhao66.github.io/files/paper/school_consolidation.pdf)
 
 [Yu Zhao](https://yuzhao66.github.io/), [Guangsu Zhou](http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/zgs/226d274fc66240e0b01b3c01243ef853.htm). 
 
