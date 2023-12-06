@@ -48,9 +48,9 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 
 {{<column>}}
 
-This is my Day 18 assignment from the "100 Days of Code" course on Udemy. I analyzed and visualized trends over time using space mission data from 1957 onwards. Highly recommend this course! 🥰 
+This is my Day 18 assignment from the "100 Days of Code" course on Udemy. Highly recommend this course! 🥰 
 
-[Code](/files/project/python/Space_Missions_Analysis.ipynb
+[Code](/files/project/python/Space_Missions_Analysis.ipynb)
 
 {{< endcolumn >}}
 
@@ -62,8 +62,8 @@ This is my Day 18 assignment from the "100 Days of Code" course on Udemy. I anal
 
 {{<column>}}
 
-This is my final project for the "100 Days of Code" course on Udemy. It focuses on extracting insights by combining U.S. census data with The Washington Post's police-related deaths database in the United States. You can find all my course assignments on my GitHub page.
-[Code](/files/project/python/Fatal_Force.ipynb
+This is my final project for the "100 Days of Code" course on Udemy. You can find all my course assignments on my GitHub page.
+[Code](/files/project/python/Fatal_Force.ipynb)
 
 {{< endcolumn >}}
 
