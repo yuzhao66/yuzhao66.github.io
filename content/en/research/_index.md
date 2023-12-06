@@ -12,11 +12,11 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure-a src="/media/research/college_cost/ml_heter.png" >}}
+{{<figure-a src="/media/research/college_cost/ml_heter.png" style="width: 100%;">}}
 
 {{< column >}}
 
-{{<figure-a src="/media/research/college_cost/ml_shap.png" >}}
+{{<figure-a src="/media/research/college_cost/ml_shap.png" style="width: 100%;">}}
 
 {{< endcolumn >}}
 
@@ -30,6 +30,13 @@ Abstract: There has been a global trend of rapid college tuition increases, whic
 
 
 🌻
+
+{{< columns >}}
+
+
+{{<figure-a src="/media/research/glass.png" style="width: 100%;" >}}
+
+{{< column >}}
 
 **Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses**. 
 
