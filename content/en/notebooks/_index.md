@@ -38,7 +38,7 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 
 ***
 
-## Project
+## Notebooks
 
 ### 1. Python: Analyse and Visualise the Space Race
 
@@ -64,12 +64,6 @@ This is my final project for the "100 Days of Code" course on Udemy. You can fin
 
 {{< endcolumn >}}
 
-
-
-
-## Notebooks
-
-### 1. Learning notes on Machine Learning
 
 
 
