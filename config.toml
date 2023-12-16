@@ -33,7 +33,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 5
 [[menu.en]]
     name = "中文"
-    url = "/"
+    url = "/cn/blog/"
     weight = 6
 [[menu.cn]]
     name = "关于"
