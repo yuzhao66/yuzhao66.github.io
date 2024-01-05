@@ -3,6 +3,8 @@ title: Research
 type : nolisting
 ---
 
+*I strongly believe that social science experiments generate an imperceptible current, akin to that of a generator. My aspiration is for this current to release a formidable force, illuminating not only the vicinity of the power plant where resources abound but also reaching the darkest corners of the most remote communities 💡. My research objective is to assist individuals in making informed human capital decisions, champion the cause of marginalized and low-income groups, empowering them to unleash their full potential, and ultimately contribute to the cultivation of social equity. —— Yu Zhao* 
+
 
 ## Education and Labor Economics
 
