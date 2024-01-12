@@ -70,7 +70,7 @@ Abstract: This study uses a randomized experiment to examine the effectiveness o
 
 **The Long-term Influence of Education Resources Allocation on the Migration：Evidence from the China’s Rural School Consolidation Policy**. [[PDF]](https://yuzhao66.github.io/files/paper/school_consolidation.pdf)
 
-[Yu Zhao](https://yuzhao66.github.io/), [Guangsu Zhou](http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/zgs/226d274fc66240e0b01b3c01243ef853.htm). 
+[Yu Zhao](https://yuzhao66.github.io/), [Hui Du](/), [Rui Li](https://hums.dlmu.edu.cn/info/1121/2061.htm), [Guangsu Zhou](http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/zgs/226d274fc66240e0b01b3c01243ef853.htm). Accepted by *Journal of Asian Economics*.
 
 {{< endcolumn >}}
 <details>
@@ -111,7 +111,7 @@ Abstract: We take the implementation of "China’s New Labor Contract Law" (NLCL
 {{< column >}}
 **The Influence of Farmers’ Financial Literacy on Household’s Poverty Vulnerability.** [[PDF]](https://yuzhao66.github.io/files/paper/finance.pdf)
 
-[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Xinjiang State Farms Economy, 2021. 
+[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). *Xinjiang State Farms Economy*, 2021. 
 
 
 <details>
@@ -126,6 +126,6 @@ Abstract: 2020 is the year to win the battle against poverty in an all-round way
 
 **Research on the Impact of Farmland Rights Confirmation upon Rural Labor to Migrant to Work.** [[PDF]](https://yuzhao66.github.io/files/paper/migrate.pdf)
 
-[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). Rural Economy and Technology, 2019. 
+[Yu Zhao](https://yuzhao66.github.io/), [Jianjun Zhu](https://jgxy.sdau.edu.cn/2017/0913/c11111a170598/page.htm). *Rural Economy and Technology*, 2019. 
 
 {{< endcolumn >}}
