@@ -68,7 +68,7 @@ Abstract: This study uses a randomized experiment to examine the effectiveness o
 
 {{< column >}}
 
-**The Long-term Influence of Education Resources Allocation on the Migration：Evidence from the China’s Rural School Consolidation Policy**. [[PDF]](https://yuzhao66.github.io/files/paper/school_consolidation.pdf)
+**The Long-term Influence of Education Resources Allocation on the Migration：Evidence from the China’s Rural School Consolidation Policy**. 
 
 [Yu Zhao](https://yuzhao66.github.io/), [Hui Du](/), [Rui Li](https://hums.dlmu.edu.cn/info/1121/2061.htm), [Guangsu Zhou](http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/zgs/226d274fc66240e0b01b3c01243ef853.htm).         
 Accepted by *Journal of Asian Economics*.
@@ -90,7 +90,7 @@ The experiences of student life can have lasting impacts on an individual's futu
 
 {{<figure-a src="/media/research/nlcl.png" >}}
 {{< column >}}
-**The Effect of China's New Labor Contract Law on Human Capital Investment of Migrant Workers' Families**. [[PDF]](https://yuzhao66.github.io/files/paper/nlcl.pdf)
+**The Effect of China's New Labor Contract Law on Human Capital Investment of Migrant Workers' Families**. 
 
 [Yu Zhao](https://yuzhao66.github.io/), [Hui Du](/), [Rui Li](https://hums.dlmu.edu.cn/info/1121/2061.htm), [Guangsu Zhou](http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/zgs/226d274fc66240e0b01b3c01243ef853.htm). 
 {{< endcolumn >}}
