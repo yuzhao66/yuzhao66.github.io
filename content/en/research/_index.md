@@ -5,8 +5,6 @@ type : nolisting
 
 <p style="text-align: justify;">
 <em>
-I strongly believe that social science experiments generate an imperceptible current, akin to that of a generator. My aspiration is for this current to release a formidable force, illuminating not only the vicinity of the power plant where resources abound but also reaching the darkest corners of the most remote communities 💡. 
-
 My research objective is to assist individuals in making informed human capital decisions, champion the cause of marginalized and low-income groups, empowering them to unleash their full potential, and ultimately contribute to the cultivation of social equity. —— Yu Zhao
 </em>
 </p>
@@ -77,7 +75,12 @@ Accepted by *Journal of Asian Economics*. ** [[PDF]](https://yuzhao66.github.io/
 <details>
 <summary>Click to Expand Full Abstract.</summary>
 <p style="text-align: justify;">
-The experiences of student life can have lasting impacts on an individual's future outcomes. We take the policy of the Rural Primary School Consolidation Program (RPSCP) in 2001 as a quasi-natural experiment, and comprehensively examine the long-term impact of this policy on students’ migration decisions in the future. We find that the RPSCP policy has a persisting negative impact on rural students’ future migration, with a more pronounced effect among girls and younger students. Mechanism analysis suggests that the RPSCP can hinder the process of human capital accumulation, thereby reducing the likelihood of migration. Further investigation highlights that school consolidation not only affects students' career choices, but also has a profound impact on household registration conversion and settlement intentions in other regions.    
+The experiences of student life can have lasting impacts on an individual’s future outcomes. We 
+take the policy of the Rural Primary School Consolidation Program (RPSCP) in 2001 as a quas-inatural experiment, and comprehensively examine the long-term impact of this policy on students’ migration decisions in the future. We find that the RPSCP policy has a persisting negative 
+impact on rural students’ future migration, with a more pronounced effect among girls and 
+younger students. Mechanism analysis suggests that the RPSCP can hinder the process of human 
+capital accumulation, thereby reducing the likelihood of migration. Further investigation highlights that school consolidation not only affects students’ career choices, but also has a profound 
+impact on household registration conversion and settlement intentions in other regions.
 </p>
 </details>
 

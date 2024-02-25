@@ -9,7 +9,21 @@ toc: true
 
 "RCT4BETTER"(依然糅春天) is [Dr. Xiaoyang Ye's](https://xiaoyangye.github.io/) WeChat Official Account, and as his research assistant, I often assist in publishing knowledge dissemination articles on it.
 
-### 1. How to use ‘readhtmltable’ and ‘maptile’ commands.
+### 1. Let ChatGPT dive deep nationwide college applicants' experiences
+
+{{<columns>}}
+{{<figure-a src="/files/wechat/choice1.jpg" >}}
+
+{{<column>}}
+
+{{<figure-a src="/files/wechat/choice3.jpg" >}}  
+     [Link](https://mp.weixin.qq.com/s/2yCTfdkfMEbLRbCt6OvIVg)
+{{< endcolumn >}}
+
+### 2. [Translation: Methods for Measuring School Effectiveness.](https://mp.weixin.qq.com/s/CirHLuFrIg7D5NDTBaEWDw)
+
+
+### 3. How to use ‘readhtmltable’ and ‘maptile’ commands.
 
 {{<columns>}}
 
@@ -21,20 +35,6 @@ We discussed how to use the ‘readhtmltable’ and ‘maptile’ commands in St
 [Link](https://mp.weixin.qq.com/s/SN2nvE3MEAwWECyYf5aRdg) | [Code(Jupyterlab)](/files/wechat/map.ipynb)
 
 {{< endcolumn >}}
-
-### 2. [Translation: Methods for Measuring School Effectiveness.](https://mp.weixin.qq.com/s/CirHLuFrIg7D5NDTBaEWDw)
-
-### 3. Let ChatGPT experience everyone's college entrance exam experience.
-
-{{<columns>}}
-{{<figure-a src="/files/wechat/choice1.jpg" >}}
-
-{{<column>}}
-
-{{<figure-a src="/files/wechat/choice3.jpg" >}}  
-     [Link](https://mp.weixin.qq.com/s/2yCTfdkfMEbLRbCt6OvIVg)
-{{< endcolumn >}}
-
 
 ***
 
