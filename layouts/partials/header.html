@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--     <script src="https://d3js.org/d3.v6.min.js"></script> -->
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    {{ partial "head_custom.html" . }}
+  </head>
+  
+  <body>
+    <div style="background:#bb0000; color:#fff; text-align:center; padding:14px 20px; font-size:1.1em; font-weight:600;">
+      This website has moved! Please visit my new site at
+      <a href="https://zoeyzhao-econ.github.io/" style="color:#fff; text-decoration:underline; margin-left:4px;">zoeyzhao-econ.github.io</a>
+    </div>
+    <div class="wrapper">
+      <header class="header">
+        {{ partial "nav.html" . }}
+      </header>
